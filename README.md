@@ -28,4 +28,4 @@ Je suis ouverte à tous : n'hésite pas à me contacter !
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![Visiteurs](https://komarev.com/ghpvc/?username=TON-PSEUDO&label=Visiteurs&color=blue)
+![Visiteurs](https://komarev.com/ghpvc/?username=kodebyamina&label=Visiteurs&color=blue)
